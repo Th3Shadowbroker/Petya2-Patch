@@ -9,7 +9,8 @@
 
 ### Important
 
-Use this tool at your own risk!
+* Use this tool at your own risk!
+* The smb-service will be restarted if needed by another software.
 
 
 ### License
