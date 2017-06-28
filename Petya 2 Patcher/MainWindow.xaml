@@ -1,0 +1,15 @@
+﻿<Window x:Class="Petya_2_Patcher.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Petya_2_Patcher"
+        mc:Ignorable="d"
+        Title="Petya 2 Patch | www.m4taiori.de" Height="149.038" Width="274.039" ResizeMode="NoResize" Visibility="Visible" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Label x:Name="StatusLabel" Content="Current State: Not patched" HorizontalAlignment="Left" Margin="10,19,0,0" VerticalAlignment="Top" Width="248"/>
+        <Button x:Name="RunPatch" Content="Patch registry" Margin="10,50,10,0" VerticalAlignment="Top" Click="RunPatch_Click"/>
+        <Label Content="Created Jens F. | www.m4taiori.de" HorizontalAlignment="Left" Margin="10,75,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,14 @@
+c:\users\igsje\documents\visual studio 2017\Projects\Petya 2 Patcher\Petya 2 Patcher\bin\Debug\Petya 2 Patcher.exe.config
+c:\users\igsje\documents\visual studio 2017\Projects\Petya 2 Patcher\Petya 2 Patcher\bin\Debug\Petya 2 Patcher.exe
+c:\users\igsje\documents\visual studio 2017\Projects\Petya 2 Patcher\Petya 2 Patcher\bin\Debug\Petya 2 Patcher.pdb
+c:\users\igsje\documents\visual studio 2017\Projects\Petya 2 Patcher\Petya 2 Patcher\obj\Debug\Petya 2 Patcher.csprojResolveAssemblyReference.cache
+c:\users\igsje\documents\visual studio 2017\Projects\Petya 2 Patcher\Petya 2 Patcher\obj\Debug\MainWindow.g.cs
+c:\users\igsje\documents\visual studio 2017\Projects\Petya 2 Patcher\Petya 2 Patcher\obj\Debug\App.g.cs
+c:\users\igsje\documents\visual studio 2017\Projects\Petya 2 Patcher\Petya 2 Patcher\obj\Debug\Petya 2 Patcher_MarkupCompile.cache
+c:\users\igsje\documents\visual studio 2017\Projects\Petya 2 Patcher\Petya 2 Patcher\obj\Debug\Petya 2 Patcher_MarkupCompile.lref
+c:\users\igsje\documents\visual studio 2017\Projects\Petya 2 Patcher\Petya 2 Patcher\obj\Debug\MainWindow.baml
+c:\users\igsje\documents\visual studio 2017\Projects\Petya 2 Patcher\Petya 2 Patcher\obj\Debug\Petya 2 Patcher.g.resources
+c:\users\igsje\documents\visual studio 2017\Projects\Petya 2 Patcher\Petya 2 Patcher\obj\Debug\Petya_2_Patcher.Properties.Resources.resources
+c:\users\igsje\documents\visual studio 2017\Projects\Petya 2 Patcher\Petya 2 Patcher\obj\Debug\Petya 2 Patcher.csproj.GenerateResource.Cache
+c:\users\igsje\documents\visual studio 2017\Projects\Petya 2 Patcher\Petya 2 Patcher\obj\Debug\Petya 2 Patcher.exe
+c:\users\igsje\documents\visual studio 2017\Projects\Petya 2 Patcher\Petya 2 Patcher\obj\Debug\Petya 2 Patcher.pdb
