@@ -3,6 +3,9 @@
 * Disable windows smb-service
 * Protection against LAN-Attacks
 
+### Download
+[Download the latest version](https://git.m4taiori.de/Th3Shadowbroker/Petya2-Patch/raw/master/Releases/Petya%202%20Patcher.exe)
+
 
 ### Important
 
